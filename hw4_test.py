@@ -48,7 +48,7 @@ def test_is_unique():
 	assert is_unique('abcdef') == True
 	assert is_unique('g') == True
 	assert is_unique('hello world') == False
-	assert is_unique('heLlo') == True
+	assert is_unique('heLlo') == False
 
 
 if __name__ == '__main__':
