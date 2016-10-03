@@ -101,6 +101,10 @@ def happy_numbers(n):
 #   Output:
 #   {1: 'a', 2: 'b'}
 #
+# Restrictions
+# ------------
+# We will not give inputs with duplicate values, i.e {'a': 2, 'b': 2}.
+#
 # Parameters
 # ----------
 # d : dict
