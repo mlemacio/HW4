@@ -1,5 +1,5 @@
 # HW4
-All questions must use hashmaps. All solutions should run in O(n) time.
+All questions must use hashmaps. All solutions should run in the most efficient time possible.
 
 ## Documentation
 Hashmaps here: https://github.com/CS196Illinois/Lecture-Notes/blob/master/hashmaps.md <\n>
